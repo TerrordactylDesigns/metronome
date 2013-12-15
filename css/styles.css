@@ -1,0 +1,36 @@
+body { font-family: 'Lucida Grande', Helvetica, Arial, sans-serif}
+
+
+
+.jumbotron {margin-top: 100px}
+#metro {width: 200px; margin: 0 auto;}
+
+
+html, body { height:100% }
+
+#wrapper {
+  width: 960px;
+  min-height: 100%; height: auto !important; height: 100%;
+  margin: 0 auto -150px
+}
+
+#footer, #push {clear:both}
+#footer {
+  text-align:center;
+  width:960px;
+  margin:0 auto
+}
+#footer p {
+  color:#CCC;
+  padding-top:4em
+}
+#footer a { color:#CCC }
+.sociallink { 
+  padding:.3em; 
+  margin-left: .3em;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+  border-radius:5px;
+  } .sociallink:hover {
+      background: #F1F1F1;
+    }
